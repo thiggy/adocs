@@ -1,1 +1,9 @@
 = adocs
+Thiggy Jones <thiggy.jones@gmail.com>
+v0.0.1, 2015-03-10
+
+NOTE: This is a work in progress
+
+WARNING: My understanding is limited at this point
+
+IMPORTANT: We should work on this
